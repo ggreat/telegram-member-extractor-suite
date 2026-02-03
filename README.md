@@ -14,7 +14,7 @@ This contains everything you need to run your app locally.
 2. Run the app:
    `npm run dev`
 
-This tool is provided for **educational and authorized administrative use only**. Any attempt to use this tool for harassment, spamming (mass messaging), or unauthorized harvesting of personal data is a violation of Telegram's API Terms of Service and may result in permanent account bans or legal action. Users are responsible for ensuring compliance with local privacy laws (such as GDPR). **DO NOT** use this tool for misconduct or unethical data collection.
+This tool is provided for educational and authorized administrative use only. Any attempt to use this tool for harassment, spamming (mass messaging), or unauthorized harvesting of personal data is a violation of Telegram's API Terms of Service and may result in permanent account bans or legal action. Users are responsible for ensuring compliance with local privacy laws (such as GDPR). DO NOT use this tool for misconduct or unethical data collection.
 
 ## How to Start
 1. Visit my.telegram.org to generate your **API ID** and **API Hash**.
