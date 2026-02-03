@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Member Extractor Suite",
+  "description": "A professional-grade dashboard for generating and managing Telegram group member extraction scripts. Features a built-in Python script generator, CLI simulator, and AI-powered documentation helper.",
+  "requestFramePermissions": []
+}
